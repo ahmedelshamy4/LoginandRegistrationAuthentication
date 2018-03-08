@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763254391948",
+    "firebase_url": "https://loginandregistrationauthentica.firebaseio.com",
+    "project_id": "loginandregistrationauthentica",
+    "storage_bucket": "loginandregistrationauthentica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763254391948:android:f759cbf021b27773",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.loginandregistrationauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763254391948-9am5mas0kbj2397n0kpfm76c9n4pc44a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.loginandregistrationauthentication",
+            "certificate_hash": "b2527348d03b97cf16f3f78fe6698da2b74e4ac5"
+          }
+        },
+        {
+          "client_id": "763254391948-4a2huv6g69tl6kbkjvgh19d0gmce14jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMAlmQwtrTxLtRiOpdhrWANr5KL806IH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763254391948-4a2huv6g69tl6kbkjvgh19d0gmce14jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
